@@ -1,7 +1,9 @@
 <div align="center">
-  <h1 style="color:#0366d6;font-size:36px;font-weight:bold;border-radius:5px;opacity:0;animation:fadeIn 1s ease-in-out forwards;">Hi, I'm Daniel 👋</h1>
+  <h1 style="color:#0366d6;font-size:36px;font-weight:bold;">Hi, I'm Daniel</h1>
+  <marquee><h1 style="color:#0366d6;font-size:36px;font-weight:bold;">👋</h1></marquee>
   <img src="https://img.shields.io/badge/Developer-Full%20Stack%20Web%20Developer-blue?style=for-the-badge&logo=appveyor" alt="Developer Badge">
 </div>
+
 
 
 <!--
