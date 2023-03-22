@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+
 <div align="center">
   <span class="hello">Hi, I'm Daniel 👋</span>
 </div>
