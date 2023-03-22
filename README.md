@@ -3,7 +3,7 @@
 </head>
 
 
-<div align="center">
+<div>
   <span class="hello">Hi, I'm Daniel 👋</span>
 </div>
 
