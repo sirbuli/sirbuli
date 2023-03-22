@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:#0366d6;font-size:36px;font-weight:bold;@keyframes fadeIn {
+  <h1 style="color:#0366d6;font-size:36px;font-weight:bold;border-radius:5px;opacity:0;animation:fadeIn 1s ease-in-out forwards;@keyframes fadeIn {
   from {
     opacity: 0;
     transform: translateX(-50px);
