@@ -1,11 +1,19 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-
-
-<div>
-  <span class="hello">Hi, I'm Daniel 👋</span>
+<div align="center">
+  <span style="font-size: 28px; font-weight: bold; color: #ffffff; background-color: #0366d6; padding: 10px 20px; border-radius: 5px; opacity: 0; animation: fadeIn 1s ease-in-out forwards;">Hi, I'm Daniel 👋</span>
 </div>
+
+<style>
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+</style>
 
 
 <!--
