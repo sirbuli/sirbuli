@@ -15,6 +15,8 @@
   <div>
   <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   <img alt="Express.js Badge" src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
+<img alt="MongoDB Compass Badge" src="https://img.shields.io/badge/MongoDB_Compass-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
+
   </div>
   <br>
   <div>
