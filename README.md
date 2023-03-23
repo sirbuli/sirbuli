@@ -11,7 +11,7 @@
   <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   <img alt="Sass Badge" src="https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   </div>
-  <br>
+  <br style="font-size:10px;">
   <div>
   <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   <img alt="Express.js Badge" src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
