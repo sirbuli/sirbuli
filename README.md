@@ -5,7 +5,7 @@
 
 <div>
   <h2 style"font-size:28px;">What I know?</h2>
-  <img src="https://img.icons8.com/color/256/javascript--v1.png" alt="JavaScript Badge"/>
+  <img style="font-size=16px" src="https://img.icons8.com/color/256/javascript--v1.png" alt="JavaScript Badge"/>
 </div>
 
 
