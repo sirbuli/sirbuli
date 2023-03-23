@@ -1,6 +1,11 @@
 <div align="center">
   <h1 style="color:#0366d6;font-size:36px;font-weight:bold;">Hi, I'm Daniel 👋</h1>
-  <img src="https://img.shields.io/badge/Developer-Full%20Stack%20Web%20Developer-blue?style=for-the-badge&logo=appveyor" alt="Developer Badge">
+  <img src="https://img.shields.io/badge/Developer-Full%20Stack%20Web%20Developer-blue?style=for-the-badge&logo=appveyor" alt="Developer Badge"/>
+</div>
+
+<div>
+  <h2 style"font-size:28px;">What I know?</h2>
+  <img src="https://img.icons8.com/color/256/javascript--v1.png" alt="JavaScript Badge"/>
 </div>
 
 
