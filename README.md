@@ -2,7 +2,7 @@
   <h1 style="color:#0366d6;font-size:36px;font-weight:bold;">Hi, I'm Daniel 👋</h1>
   <img src="https://img.shields.io/badge/Developer-Full%20Stack%20Web%20Developer-blue?style=for-the-badge&logo=appveyor" alt="Developer Badge"/>
 </div>
-
+<br>
 <div>
   <p style"font-size:28px;">What I know?</p>
   <div>
@@ -22,9 +22,9 @@
   <img alt="Postman Badge" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   </div>
 </div>
-\n
-\n
-
+<br>
+<br>
+<br>
 <div>
   <p style"font-size:28px;">What I want to know?</p>
   <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
