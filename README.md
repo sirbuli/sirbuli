@@ -5,7 +5,7 @@
 
 <div>
   <h2 style"font-size:28px;">What I know?</h2>
-  <img style="height=16px;wdith:16px;" src="https://img.icons8.com/color/256/javascript--v1.png" alt="JavaScript Badge"/>
+  <img style="height=16px;wdith:16px;" src="https://img.icons8.com/color/256/javascript--v1.png](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript Badge"/>
 </div>
 
 
