@@ -5,8 +5,8 @@
 <br>
 <div>
   <p style="font-size:28px;">What I know? ✔</p>
-  <div>
-  <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" style="width: 12.5%; height: 12.5%;margin-bottom:20px;"/>
+  <div style="margin-bottom: 20px;">
+  <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" style="width: 12.5%; height: 12.5%;"/>
   <img alt="HTML Badge" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   <img alt="Sass Badge" src="https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
