@@ -1,6 +1,7 @@
 <div align="center">
   <h1 style="color:#0366d6;font-size:48px;font-weight:bold;">Hi, I'm Daniel 👋</h1>
-<img alt="Developer Badge" src="https://img.shields.io/badge/Developer-blue?style=for-the-badge" style="width: 12.5%; height: 12.5%;"/>
+  <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" style="width: 12.5%; height: 12.5%;"/>
+
 
   <img src="https://img.shields.io/badge/Developer-Full%20Stack%20Web%20Developer-blue?style=for-the-badge&logo=appveyor" alt="Developer Badge"/>
 </div>
