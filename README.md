@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 style="color:#0366d6;font-size:36px;font-weight:bold;">Hi, I'm Daniel 👋</h1>
+  <h1 style="color:#0366d6;font-size:48px;font-weight:bold;">Hi, I'm Daniel 👋</h1>
   <img src="https://img.shields.io/badge/Developer-Full%20Stack%20Web%20Developer-blue?style=for-the-badge&logo=appveyor" alt="Developer Badge"/>
 </div>
 <br>
 <div>
-  <p style="font-size:28px;">What I know? ✔</p>
+  <p style="font-size:36px;font-weight:bold;">What I know? ✔</p>
   <div style="margin-bottom: 20px;">
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" style="width: 12.5%; height: 12.5%;"/>
   <img alt="HTML Badge" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
@@ -26,7 +26,7 @@
 <br>
 <br>
 <div>
-  <p style"font-size:28px;">What I want to know? 👀</p>
+  <p style"font-size:36px;font-weight:bold;">What I want to know? 👀</p>
   <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
   <img alt="React Badge" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" style="width: 12.5%; height: 12.5%"/>
