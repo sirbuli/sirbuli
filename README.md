@@ -1,11 +1,23 @@
 <div align="center">
-  <h1 style="color:#0366d6;font-size:48px;font-weight:bold;">Hi, I'm Daniel 👋</h1> <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" style="width: 25%; height: 25%;"/>
+  <h1 style="color: #0366d6; font-size: 48px; font-weight: bold;">Hi, I'm Daniel 👋</h1> 
+  <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" style="width: 25%; height: 25%;"/>
 </div>
 
 <br>
 
 <div>
-  <h2 style="font-size:42px;font-weight:bold;">What I know? ✔</h2>
+  <h2 style="font-size: 42px; font-weight: bold;">Fun facts about me ⚡</h2>
+  <ul>
+    <li>Active lifestyle 💪⚽🚴‍♂️🎿</li>
+    <li>Fixing various things 🛠</li>
+    <li>Playing games 🎲🎮</li>
+    <li>Writing Code? Of course 💻</li>
+</div>
+
+<br>
+
+<div>
+  <h2 style="font-size: 42px; font-weight: bold;">What I know? ✔</h2>
   <div>
     <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" style="width: 12.5%; height: 12.5%;"/>
     <img alt="HTML Badge" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
@@ -35,7 +47,7 @@
   <br>
   
   <div>
-    <h2 style"font-size:42px;font-weight:bold;">What I want to know? 👀</h2>
+    <h2 style"font-size: 42px; font-weight: bold;">What I want to know? 👀</h2>
     <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="width: 12.5%;     height: 12.5%;"/>
     <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"                 style="width: 12.5%; height: 12.5%;"/>
     <img alt="React Badge" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" style="width: 12.5%;           height: 12.5%"/>
