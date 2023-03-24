@@ -11,7 +11,6 @@
     <li>Active lifestyle 💪⚽🚴‍♂️🎿</li>
     <li>Fixing various things 🛠</li>
     <li>Playing games 🎲🎮</li>
-    <li>Writing Code? Of course 💻</li>
 </div>
 
 <br>
