@@ -1,34 +1,17 @@
-<div align="center">
-  <h1 style="color: #0366d6; font-size: 48px; font-weight: bold;">Hi, I'm Daniel 👋</h1> 
-  <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" style="width: 25%; height: 25%;"/>
-</div>
+# Hi, I'm Daniel 👋
+
+![Developer Badge](https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor)
+
+## Fun facts about me ⚡
+- Active lifestyle 💪⚽🚴‍♂️🎿
+- Fixing various things 🛠
+- Playing games 🎲🎮
 
 ## Recent project
 Currently, I am working on my own project [**shootGame**](https://github.com/sirbuli/shootGame)
 
 All of my projects are available here [**portfolio**](https://github.com/sirbuli?tab=repositories)
 
-<br>
-
-<div>
-  <h2 style="font-size: 42px; font-weight: bold;">Fun facts about me ⚡</h2>
-  <ul>
-    <li>Active lifestyle 💪⚽🚴‍♂️🎿</li>
-    <li>Fixing various things 🛠</li>
-    <li>Playing games 🎲🎮</li>
-</div>
-
-<br>
-  
-<div>
-  <h2 style="font-size: 42px; font-weight: bold;">Recent project</h2>
-  <p>Currently, I am working on my own project [**shootGame**](https://github.com/sirbuli/shootGame)</p>
-  <p>All of my projects are availeble here [**portfolio**](https://github.com/sirbuli?tab=repositories)</p>
-
-</div>
-
-<br>  
-  
 <div>
   <h2 style="font-size: 42px; font-weight: bold;">What I know? ✔</h2>
   <div>
