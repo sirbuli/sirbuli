@@ -17,8 +17,8 @@
   
 <div>
   <h2 style="font-size: 42px; font-weight: bold;">Recent project</h2>
-  <p>Currently, I am working on my own project [shootGame](https://github.com/sirbuli/shootGame)</p>
-  <p>All of my projects are availeble here [portfolio](https://github.com/sirbuli?tab=repositories)</p>
+  <p>Currently, I am working on my own project [**shootGame**](https://github.com/sirbuli/shootGame)</p>
+  <p>All of my projects are availeble here [**portfolio**](https://github.com/sirbuli?tab=repositories)</p>
 
 </div>
 
