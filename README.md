@@ -14,14 +14,23 @@
 </div>
 
 <br>
+  
+<div>
+  <h2 style="font-size: 42px; font-weight: bold;">Recent project</h2>
+  <p>Currently, I am working on my own project [ShootGame](https://github.com/sirbuli/shootGame)</p>
+  <p>All of my projects are availeble here [portfolio](https://github.com/sirbuli?tab=repositories))</p>
 
+</div>
+
+<br>  
+  
 <div>
   <h2 style="font-size: 42px; font-weight: bold;">What I know? ✔</h2>
   <div>
-    <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" style="width: 12.5%; height: 12.5%;"/>
-    <img alt="HTML Badge" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
-    <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
-    <img alt="Sass Badge" src="https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" style="width: 12.5%; height: 12.5%;"/>
+    <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"                 style="width: 12.5%; height: 12.5%;"/>
+    <img alt="HTML Badge" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="width: 12.5%; height:     12.5%;"/>
+    <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="width: 12.5%; height:         12.5%;"/>
+    <img alt="Sass Badge" src="https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" style="width: 12.5%; height:       12.5%;"/>
   </div>
   
   <br>
@@ -42,9 +51,7 @@
   </div>
   
   <br>
-  <br>
-  <br>
-  
+
   <div>
     <h2 style"font-size: 42px; font-weight: bold;">What I want to know? 👀</h2>
     <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="width: 12.5%;     height: 12.5%;"/>
