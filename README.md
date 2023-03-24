@@ -1,8 +1,6 @@
 
-  <h1 align="center" style="color:#0366d6;font-size:48px;font-weight:bold;">Hi, I'm Daniel 👋</h1>
-  <p align="center">
-    <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" style="width: 20%; height: 20%;"/>
-  </p>
+| <h1 align="center">Hi, I'm Daniel 👋</h1> | <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" /> |
+|:---:|:---:|
 <br>
 <div>
   <h2 style="font-size:42px;font-weight:bold;">What I know? ✔</h2>
