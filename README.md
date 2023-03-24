@@ -1,5 +1,7 @@
-# align="center" Hi, I'm Daniel 👋
-
+<div align="center">
+  <h1 style="color: #0366d6; font-size: 48px; font-weight: bold;">Hi, I'm Daniel 👋</h1> 
+  <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" style="width: 25%; height: 25%;"/>
+</div>
 
 <br>
 
@@ -32,7 +34,6 @@ All of my projects are available here [**portfolio**](https://github.com/sirbuli
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 
-
 <br>
 
 ## What I want to know? 👀
@@ -43,37 +44,9 @@ All of my projects are available here [**portfolio**](https://github.com/sirbuli
 
 
 <!--
-
-<div align="center">
-  <h1 style="color: #0366d6; font-size: 48px; font-weight: bold;">Hi, I'm Daniel 👋</h1> 
-  <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&logo=appveyor" style="width: 25%; height: 25%;"/>
-</div>
-
-<br>
-
-<div>
-  <h2 style="font-size: 42px; font-weight: bold;">Fun facts about me ⚡</h2>
-  <ul>
-    <li>Active lifestyle 💪⚽🚴‍♂️🎿</li>
-    <li>Fixing various things 🛠</li>
-    <li>Playing games 🎲🎮</li>
-</div>
-
-<br>
-  
-<div>
-  <h2 style="font-size: 42px; font-weight: bold;">Recent project</h2>
-  <p>Currently, I am working on my own project [**shootGame**](https://github.com/sirbuli/shootGame)</p>
-  <p>All of my projects are availeble here [**portfolio**](https://github.com/sirbuli?tab=repositories)</p>
-
-</div>
-
-<br>  
-  
 **sirbuli/sirbuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
