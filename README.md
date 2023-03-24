@@ -1,6 +1,5 @@
-<div align="center">
-  <h1 style="color: #0366d6; font-size: 48px; font-weight: bold;">Hi, I'm Daniel 👋</h1> 
-</div>
+# align="center" Hi, I'm Daniel 👋
+
 
 <br>
 
@@ -36,6 +35,7 @@ All of my projects are available here [**portfolio**](https://github.com/sirbuli
 
 <br>
 
+## What I want to know? 👀
 ![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
