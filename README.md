@@ -1,5 +1,5 @@
 
-| <h1 align="center">Hi, I'm Daniel 👋</h1> | <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&               logo=appveyor" /> |
+| <div align="center"> <h1 align="center">Hi, I'm Daniel 👋</h1> | <img alt="Developer Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&               logo=appveyor" /> </div> |
 |:---:|:---:|
 
 <br>
